@@ -12,3 +12,10 @@
 
 ## SKILLS & TOOLS
 <img src="./images/aws.jpg" alt="Aws" style="width:70px;"/> <img src="./images/docker.png" alt="Docker" style="width:70px;"/> <img src="./images/kubernetes.png" alt="Kubernetes" style="width:70px;"/> <img src="./images/ansible.png" alt="Ansible" style="width:50px;"/> <img src="./images/terraform.png" alt="Terraform" style="width:70px;"/> <img src="./images/jenkins.png" alt="Jenkins" style="width:50px;"/> <img src="./images/linux.png" alt="Linux" style="width:70px;"/> <img src="./images/sql.png" alt="Sql" style="width:70px;"/> <img src="./images/python.png" alt="Python" style="width:70px;"/> <img src="./images/git.png" alt="Git" style="width:70px;"/> <img src="./images/jira.png" alt="Jira" style="width:70px;"/> <img src="./images/agile.png" alt="java" style="width:70px;"/>
+
+## CERTIFICATIONS
+
+
+<a href="https://www.udemy.com/certificate/UC-fac375e5-5c34-48c3-abea-d1fb486d4068/" target="_blank">![AWS](./images/udemy.png)</a>
+
+</a>
