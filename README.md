@@ -23,6 +23,6 @@
 ## AWS Projects
 | # Name                  |                                                    Topics                                                                                 |
 | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
-| Flask-Application       |[Handling Routes, Templates, Forms and SQL with Flask Web Application](https://github.com/cagatayakk/AWS_Projects/tree/main/Flask)   aaaaaaaaaaaaaaaa     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa                               |
-|Flask                    |
+| Flask-Application       |[Handling Routes, Templates, Forms and SQL with Flask Web Application](https://github.com/cagatayakk/AWS_Projects/tree/main/Flask)         |
+|                         |[ ]()                                                                                                                                      | 
 
