@@ -1,4 +1,4 @@
-<h2 align="center">Hi , I'm Cagatay <br> Welcome to My GitHub Page</h2>
+<h2 align="center">Hi , I'm Cagatay <br></p> Welcome to My GitHub Page</h2>
 <h2 align="center">Welcome to My GitHub Page</h2>
 
 - 🔭 I’m currently working on **AWS & DevOps**
