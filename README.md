@@ -1,5 +1,5 @@
-<h3 align="center">Hi , I'm Cagatay</h3>
-<h3 align="center">Welcome to My GitHub Page</h3>
+<h2 align="center">Hi , I'm Cagatay</h2>
+<h2 align="center">Welcome to My GitHub Page</h2>
 
 - 🔭 I’m currently working on **AWS & DevOps**
 - 🌱 I am eager to learn cloud computing and devops tools
