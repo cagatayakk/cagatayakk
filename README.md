@@ -1,5 +1,4 @@
-<h2 align="center">Hi , I'm Cagatay <br></p> Welcome to My GitHub Page</h2>
-<h2 align="center">Welcome to My GitHub Page</h2>
+<h1 align="center">Hi , I'm Cagatay <br></p> Welcome to My GitHub Page</h1>
 
 - 🔭 I’m currently working on **AWS & DevOps**
 - 🌱 I am eager to learn cloud computing and devops tools
