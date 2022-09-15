@@ -24,6 +24,7 @@
 |  Name                  |                                                    Description                                                                       |
 | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
 | Flask-Web-Application       |[Handling Routes, Templates, Forms and SQL with Flask Web Application](https://github.com/cagatayakk/AWS_Projects/tree/main/Flask)|
+|CloudFormation| [Creating Cloud architecture using AWS Cloudformation Service with other AWS Services and by writing Template files](https://github.com/cagatayakk/AWS_Projects/tree/main/CloudFormation)|
 |Project-101   |[Kittens Carousel Static Website deployed on AWS EC2 using Cloudformation](https://github.com/cagatayakk/AWS_Projects/tree/main/Project-101-kittens-carousel-static-website-ec2)| 
-|  | []()
+|  | []()|
 
