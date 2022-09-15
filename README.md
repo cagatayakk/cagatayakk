@@ -5,6 +5,7 @@
 - 💬 I am passionate to learn and cooperate, and I am eager to share my knowledge
 - ⚡ An individual who tries to improve and update myself in the field of software and to benefit people on this platform. Especially DevOps & Cloud Engineer enthusiast
 - 📫 How to reach me: cagatayakkiran3757@gmail.com
+
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/m-cagatay-akkiran-6561a323b/) 
 
 <hr>
