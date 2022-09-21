@@ -11,7 +11,7 @@
 <hr>
 
 ## SKILLS & TOOLS
-<img src="./images/aws.jpg" alt="Aws" style="width:60px;"/> <img src="./images/docker.png" alt="Docker" style="width:60px;"/> <img src="./images/kubernetes.png" alt="Kubernetes" style="width:60px;"/> <img src="./images/ansible.png" alt="Ansible" style="width:50px;"/> <img src="./images/terraform.png" alt="Terraform" style="width:60px;"/> <img src="./images/jenkins.png" alt="Jenkins" style="width:50px;"/> <img src="./images/linux.png" alt="Linux" style="width:60px;"/> <img src="./images/bash.png" alt="Bash" style="width:60px;"/> <img src="./images/sql.png" alt="Sql" style="width:60px;"/> <img src="./images/python.png" alt="Python" style="width:60px;"/> <img src="./images/git.png" alt="Git" style="width:60px;"/> <img src="./images/jira.png" alt="Jira" style="width:60px;"/> <img src="./images/agile.png" alt="java" style="width:60px;"/>
+<img src="./images/aws.jpg" alt="Aws" style="width:60px;"/> <img src="./images/docker.png" alt="Docker" style="width:60px;"/> <img src="./images/kubernetes.png" alt="Kubernetes" style="width:60px;"/> <img src="./images/ansible.png" alt="Ansible" style="width:50px;"/> <img src="./images/terraform.png" alt="Terraform" style="width:60px;"/> <img src="./images/jenkins.png" alt="Jenkins" style="width:50px;"/> <img src="./images/linux.png" alt="Linux" style="width:60px;"/> <img src="./images/bash.png" alt="Bash" style="width:60px;"/> <img src="./images/mysql.png" alt="Sql" style="width:60px;"/> <img src="./images/python.png" alt="Python" style="width:60px;"/> <img src="./images/git.png" alt="Git" style="width:60px;"/> <img src="./images/jira.png" alt="Jira" style="width:60px;"/> <img src="./images/agile.png" alt="java" style="width:60px;"/>
 
 ## CERTIFICATIONS
 
