@@ -16,7 +16,7 @@
 ## CERTIFICATIONS
 
 
-<a href="https://www.udemy.com/certificate/UC-fac375e5-5c34-48c3-abea-d1fb486d4068/" target="_blank">![AWS](./images/aws2.png)</a>
+<a href="https://www.credly.com/badges/b5488aeb-7fa9-4ad0-be8b-6cb9323bba8b/public_url" target="_blank">![AWS](./images/aws2.png)</a>
 <a href="https://www.udemy.com/certificate/UC-a304bcce-8373-4d8d-8687-7c1a34e4dd90/" target="_blank">![Docker](./images/docker2.png)</a>
 
 </a>
