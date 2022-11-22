@@ -13,7 +13,38 @@
 ## SKILLS & TOOLS
 <a href="https://aws.amazon.com/de/?nc2=h_lg" target= "_blank" rel="noreferrer"> 
 <img src="./images/aws.jpg" alt="Aws" style="width:60px;"/> 
-<a href="https://hub.docker.com/" target= "_blank" rel="noreferrer"> <img src="./images/docker.png" alt="Docker" style="width:60px;"/> <img src="./images/kubernetes.png" alt="Kubernetes" style="width:60px;"/> <img src="./images/ansible.png" alt="Ansible" style="width:50px;"/> <img src="./images/terraform.png" alt="Terraform" style="width:60px;"/> <img src="./images/jenkins.png" alt="Jenkins" style="width:50px;"/> <img src="./images/maven.png" alt="Maven" style="width:60px;"/> <img src="./images/swarm.jfif" alt="Swarm" style="width:60px;"/> <img src="./images/grafana.png" alt="Grafana" style="width:60px;"/> <img src="./images/prometheus.png" alt="Prometheus" style="width:60px;"/><img src="./images/linux.png" alt="Linux" style="width:60px;"/> <img src="./images/bash.png" alt="Bash" style="width:60px;"/> <img src="./images/mysql.png" alt="Sql" style="width:60px;"/> <img src="./images/python.png" alt="Python" style="width:60px;"/> <img src="./images/git.png" alt="Git" style="width:60px;"/> <img src="./images/jira.png" alt="Jira" style="width:60px;"/> <img src="./images/agile.png" alt="java" style="width:60px;"/>
+<a href="https://hub.docker.com/" target= "_blank" rel="noreferrer"> 
+<img src="./images/docker.png" alt="Docker" style="width:60px;"/> 
+<a href="https://kubernetes.io/de/" target= "_blank" rel="noreferrer"> 
+<img src="./images/kubernetes.png" alt="Kubernetes" style="width:60px;"/>
+<a href="https://www.ansible.com" target= "_blank" rel="noreferrer"> 
+<img src="./images/ansible.png" alt="Ansible" style="width:50px;"/> 
+<a href="https://www.terraform.io/" target= "_blank" rel="noreferrer"> 
+<img src="./images/terraform.png" alt="Terraform" style="width:60px;"/> 
+<a href="https://www.jenkins.io/" target= "_blank" rel="noreferrer"> 
+<img src="./images/jenkins.png" alt="Jenkins" style="width:50px;"/> 
+<a href="https://maven.apache.org/index.html" target= "_blank" rel="noreferrer"> 
+<img src="./images/maven.png" alt="Maven" style="width:60px;"/> 
+<a href="https://hub.docker.com/" target= "_blank" rel="noreferrer"> 
+<img src="./images/swarm.jfif" alt="Swarm" style="width:60px;"/> 
+<a href="https://grafana.com/grafana/download" target= "_blank" rel="noreferrer"> 
+<img src="./images/grafana.png" alt="Grafana" style="width:60px;"/> 
+<a href="https://prometheus.io/docs/introduction/overview/" target= "_blank" rel="noreferrer"> 
+<img src="./images/prometheus.png" alt="Prometheus" style="width:60px;"/>
+<a href="https://www.linux.org/" target= "_blank" rel="noreferrer"> 
+<img src="./images/linux.png" alt="Linux" style="width:60px;"/>
+<a href="https://www.gnu.org/software/bash/" target= "_blank" rel="noreferrer"> 
+<img src="./images/bash.png" alt="Bash" style="width:60px;"/> 
+<a href="https://www.mysql.com/de/" target= "_blank" rel="noreferrer"> 
+<img src="./images/mysql.png" alt="Sql" style="width:60px;"/>
+<a href="https://www.python.org/" target= "_blank" rel="noreferrer"> 
+<img src="./images/python.png" alt="Python" style="width:60px;"/>
+<a href="https://git-scm.com/" target= "_blank" rel="noreferrer"> 
+<img src="./images/git.png" alt="Git" style="width:60px;"/> 
+<a href="https://www.atlassian.com/de/software/jira" target= "_blank" rel="noreferrer"> 
+<img src="./images/jira.png" alt="Jira" style="width:60px;"/>
+<a href="https://www.atlassian.com/agile" target= "_blank" rel="noreferrer"> 
+<img src="./images/agile.png" alt="java" style="width:60px;"/>
 
 ## CERTIFICATIONS
 
