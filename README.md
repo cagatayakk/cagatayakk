@@ -69,6 +69,6 @@
 ## DevOps Projects
 |  Name                  |                                                    Description                                                                       |
 | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
-| Project-201       |[Terraform-Phonebook-Application-deployed-on-AWS](https://github.com/cagatayakk/DevOps_Projects/tree/main/Project-201-Terraform-Phonebook-Application-deployed-on-AWS)|
+| Project-201       |[Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and Relational Database Service using Terraform](https://github.com/cagatayakk/DevOps_Projects/tree/main/Project-201-Terraform-Phonebook-Application-deployed-on-AWS)|
 
 
