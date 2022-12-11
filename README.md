@@ -72,6 +72,10 @@
 |Project - 201             | [Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and Relational Database Service using Terraform](https://github.com/cagatayakk/DevOps_Projects/tree/main/Project-201-Terraform-Phonebook-Application-deployed-on-AWS)|
 |Project - 202             | [Dockerization of Bookstore Web API (Python Flask) with MySQL ](https://github.com/cagatayakk/DevOps_Projects/tree/main/Project-202-dockerization-bookstore-api-on-python-flask-mysql)|
 |Project - 203             | [Docker Swarm Deployment of Phonebook Application (Python Flask) with MySQL ](https://github.com/cagatayakk/DevOps_Projects/tree/main/Project-203-docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql-Terraform)|
-
+|Project - 204             | [Jenkins Pipeline for Dockerized Phonebook Application (Python Flask & MySQL) Deployed on Docker Swarm ](https://github.com/cagatayakk/DevOps_Projects/tree/main/Project-204-jenkins-pipeline-for-phonebook-app-on-docker-swarm-Terraform)|
+|Project - 205             | [Microservice Architecture for Phonebook Web Application (Python Flask) with MySQL using Kubernetes ](https://github.com/cagatayakk/DevOps_Projects/tree/main/Project-205-Kubernetes-Microservice-Phonebook)|
+|Project - 206             | [Web Page Application (Postgresql-Nodejs-React) deployed on EC2's with Ansible and Docker ](https://github.com/cagatayakk/DevOps_Projects/tree/main/Project-206-Ansible-publish-website-postgresql-nodejs-react)|
+|Project - 502             | [Microservices CI/CD Pipeline ]
+ (https://github.com/cagatayakk/DevOps_Projects/blob/main/502-microservices-ci-cd-pipeline-with-database/README.md)|
 
 
