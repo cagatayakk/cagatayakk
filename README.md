@@ -4,7 +4,7 @@
 - 🌱 I am eager to learn cloud computing and devops tools
 - 💬 I am passionate to learn and cooperate, and I am eager to share my knowledge
 - ⚡ An individual who tries to improve and update myself in the field of software and to benefit people on this platform. Especially DevOps & Cloud Engineer enthusiast
-- 📫 How to reach me: cagatayakkiran3757@gmail.com
+
 
 ### Connect with me:
 
