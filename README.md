@@ -81,4 +81,4 @@
 |Project - 205             | [Microservice Architecture for Phonebook Web Application (Python Flask) with MySQL using Kubernetes ](https://github.com/cagatayakk/DevOps_Projects/tree/main/Project-205-Kubernetes-Microservice-Phonebook)|
 |Project - 206             | [Web Page Application (Postgresql-Nodejs-React) deployed on EC2's with Ansible and Docker ](https://github.com/cagatayakk/DevOps_Projects/tree/main/Project-206-Ansible-publish-website-postgresql-nodejs-react)|
 |Project - 207             | [Jenkins Pipeline for Web Page Application (Postgresql-Nodejs-React)](https://github.com/cagatayakk/DevOps_Projects/tree/main/Project-207-Jenkins-Pipeline-for-WebPage-Application-(Postgresql-Nodejs-React))|
-|Capstone Project - 502             | [ Capstone Project - Microservices CI/CD Pipeline ](https://github.com/cagatayakk/DevOps_Projects/blob/main/502-microservices-ci-cd-pipeline-with-database/)|
+|Capstone Project - 502             | [ Capstone Project - Microservices CI/CD Pipeline ](https://github.com/cagatayakk/microservices-project.git)|
