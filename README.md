@@ -6,11 +6,6 @@
 - ⚡ An individual who tries to improve and update myself in the field of software and to benefit people on this platform. Especially DevOps & Cloud Engineer enthusiast
 
 
-### Connect with me:
-
-[<img align="left" alt="MAIL" width="30px" src="./images/gmail.svg" style="padding-right:10px;" />](mailto:cagatayakkiran3757@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/m-cagatay-akkiran/) 
-[<img align="left" alt="XINK" width="20px" src="https://cdn.worldvectorlogo.com/logos/xing-icon.svg" style="padding-right:10px;" />](https://www.xing.com/profile/MCagatay_Akkiran)
 
 <hr>
 
@@ -50,12 +45,7 @@
 <a href="https://www.atlassian.com/agile" target= "_blank" rel="noreferrer"> 
 <img src="./images/agile.png" alt="java" style="width:60px;"/>
 
-## CERTIFICATIONS
 
-
-<a href="https://www.credly.com/badges/b5488aeb-7fa9-4ad0-be8b-6cb9323bba8b/public_url" target="_blank">![AWS](./images/aws2.png)</a>
-<a href="https://www.credly.com/badges/fe8ba1e2-c3d7-4ca1-a187-d3f9d8daf68a/public_url" target="_blank">![AWS](./images/aws2.png)</a>
-<a href="https://www.udemy.com/certificate/UC-a304bcce-8373-4d8d-8687-7c1a34e4dd90/" target="_blank">![Docker](./images/docker2.png)</a>
 
 </a>
 
